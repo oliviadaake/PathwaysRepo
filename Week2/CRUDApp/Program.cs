@@ -1,6 +1,6 @@
 ﻿using System;
 
-// Declare variables
+// Declare my variables
 bool userChoice;
 string userChoiceString;
 const int arraySize = 12;
@@ -157,7 +157,7 @@ do
         }
         else //if false...
         {
-            Console.WriteLine("Name not found in the array."); 
+            Console.WriteLine("Name not found in the array.");
         }
     }
 

@@ -1,6 +1,6 @@
 ﻿using System;
 
-// Declare my variables
+// Declare variables
 bool userChoice;
 string userChoiceString;
 const int arraySize = 12;

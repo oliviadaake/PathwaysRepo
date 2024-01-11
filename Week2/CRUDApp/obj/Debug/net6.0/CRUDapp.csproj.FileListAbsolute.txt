@@ -1,0 +1,15 @@
+/Users/odaake@dontpaniclabs.com/Desktop/pathways/HelloWorld/Week2/CRUDApp/bin/Debug/net6.0/CRUDapp
+/Users/odaake@dontpaniclabs.com/Desktop/pathways/HelloWorld/Week2/CRUDApp/bin/Debug/net6.0/CRUDapp.deps.json
+/Users/odaake@dontpaniclabs.com/Desktop/pathways/HelloWorld/Week2/CRUDApp/bin/Debug/net6.0/CRUDapp.runtimeconfig.json
+/Users/odaake@dontpaniclabs.com/Desktop/pathways/HelloWorld/Week2/CRUDApp/bin/Debug/net6.0/CRUDapp.dll
+/Users/odaake@dontpaniclabs.com/Desktop/pathways/HelloWorld/Week2/CRUDApp/bin/Debug/net6.0/CRUDapp.pdb
+/Users/odaake@dontpaniclabs.com/Desktop/pathways/HelloWorld/Week2/CRUDApp/obj/Debug/net6.0/CRUDapp.csproj.AssemblyReference.cache
+/Users/odaake@dontpaniclabs.com/Desktop/pathways/HelloWorld/Week2/CRUDApp/obj/Debug/net6.0/CRUDapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/odaake@dontpaniclabs.com/Desktop/pathways/HelloWorld/Week2/CRUDApp/obj/Debug/net6.0/CRUDapp.AssemblyInfoInputs.cache
+/Users/odaake@dontpaniclabs.com/Desktop/pathways/HelloWorld/Week2/CRUDApp/obj/Debug/net6.0/CRUDapp.AssemblyInfo.cs
+/Users/odaake@dontpaniclabs.com/Desktop/pathways/HelloWorld/Week2/CRUDApp/obj/Debug/net6.0/CRUDapp.csproj.CoreCompileInputs.cache
+/Users/odaake@dontpaniclabs.com/Desktop/pathways/HelloWorld/Week2/CRUDApp/obj/Debug/net6.0/CRUDapp.dll
+/Users/odaake@dontpaniclabs.com/Desktop/pathways/HelloWorld/Week2/CRUDApp/obj/Debug/net6.0/refint/CRUDapp.dll
+/Users/odaake@dontpaniclabs.com/Desktop/pathways/HelloWorld/Week2/CRUDApp/obj/Debug/net6.0/CRUDapp.pdb
+/Users/odaake@dontpaniclabs.com/Desktop/pathways/HelloWorld/Week2/CRUDApp/obj/Debug/net6.0/CRUDapp.genruntimeconfig.cache
+/Users/odaake@dontpaniclabs.com/Desktop/pathways/HelloWorld/Week2/CRUDApp/obj/Debug/net6.0/ref/CRUDapp.dll
